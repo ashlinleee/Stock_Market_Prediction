@@ -9,7 +9,6 @@ The GA is used to optimize LSTM hyperparameters for improved forecasting perform
 Predict future stock prices using machine learning and deep learning.  
 
 **Models Implemented**  
-Linear Regression (baseline)  
 Random Forest (baseline)  
 Simple RNN  
 LSTM (default configuration)  
@@ -31,7 +30,6 @@ The implementation begins with data preprocessing, where stock price data (Close
 **Results**  
 | Model               | Test RMSE | Test MAE  |
 | ------------------- | --------- | --------- |
-| Linear Regression   | 2.077     | 1.485     |
 | Random Forest       | 32.359    | 30.768    |
 | Simple RNN          | 10.474    | 9.426     |
 | LSTM (default)      | 5.621     | 4.489     |
