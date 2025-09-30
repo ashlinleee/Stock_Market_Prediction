@@ -1,4 +1,4 @@
-**Stock Price Prediction with GA-Optimized LSTM**  
+# Stock Price Prediction with GA-Optimized LSTM #  
 
 This repository implements stock price prediction using classical models, deep learning, and a Genetic Algorithm (GA)-tuned LSTM.
 The GA is used to optimize LSTM hyperparameters for improved forecasting performance.  
